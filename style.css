@@ -1,6 +1,7 @@
 body{
     background-color: black;
     font-family: 'Bowlby One SC', cursive;
+    background-image: ;
 }
 
 h1{
@@ -10,4 +11,5 @@ h1{
 
 p{
     text-align: center;
+    color: white;
 }
